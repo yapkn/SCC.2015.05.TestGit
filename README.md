@@ -8,7 +8,7 @@ This is a *very important* file!
 
 This is an even **more important** sentence.
 
-This are the 5 points:
+These are the 5 points:
 
 - Point 1: bla bla bla
 - Point 2: bla bla bla
@@ -16,11 +16,11 @@ This are the 5 points:
 - Point 4: bla bla bla
 - Point 5: bla bla bla
  
-These are 2 points:
+These are 3 points:
 
-1. abc
-2. dec
-3. ghi
+- Point 1. abc
+- Point 2. dec
+- Point 3. ghi
 
 
 ```
